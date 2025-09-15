@@ -27,4 +27,4 @@ function processaTexto(texto) {
             
     console.log(frequencias);
     return palavras;
-    }
+    }.
